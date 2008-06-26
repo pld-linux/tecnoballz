@@ -1,7 +1,7 @@
 # TODO:
-# - pl descryption and summary
 # - desktop and icon
 Summary:	A breakout clone with 50 levels of game and 11 special levels
+Summary(pl.UTF-8):	Klon Breakouta z 50 poziomami gry i 11 poziomami specjalnymi
 Name:		tecnoballz
 Version:	0.92
 Release:	1
@@ -22,6 +22,13 @@ distributed on the 2 modes of game to give the player a sophisticated
 system of attack weapons with an enormous power of fire that can be
 build by gaining bonuses. Numerous decors, musics and sounds complete
 this great game. This game was ported from the Commodore Amiga.
+
+%description -l pl.UTF-8
+Ekscytująca gra w burzenie ściany z 50 poziomami gry i 11 poziomami
+specjalnymi, rozproszona w dwa tryby gry, aby dać graczowi bardziej
+przemyślany system broni o olbrzymiej sile ognia, którą można zbudować
+zbierając premie. Liczne dekoracje, muzyka i dźwięki dopełniają grę.
+Została ona sportowana z komputera Commodore Amiga.
 
 %prep
 %setup -q
